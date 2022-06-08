@@ -12,4 +12,3 @@ Algorithm: Filter image (morphological filters) and assume the largest area is t
 
 
 made by @torku
-![image](https://user-images.githubusercontent.com/61596822/172580495-3142ab52-2e21-4791-a2fc-eea2df549fec.png)
