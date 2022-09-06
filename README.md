@@ -9,6 +9,3 @@ Algorithm: Filter image (morphological filters) and assume the largest area is t
 
 -after-
 ![image](https://user-images.githubusercontent.com/61596822/172583711-d9588885-9389-4e50-a484-6097c32471b0.png)
-
-
-made by @torku
